@@ -1,0 +1,26 @@
+/* This is a CSS comment */
+
+/* Styling the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling the heading */
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+/* Styling the main content */
+main {
+    padding: 20px;
+}
+
+/* Styling paragraphs */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
